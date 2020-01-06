@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Danny Davies Art",
+  siteUrl: `https://www.dannydaviesart.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - Hello",
+  siteDescription: "Visual Artist",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
