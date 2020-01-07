@@ -8,7 +8,7 @@ sections:
   path: gallery
   label: Gallery
   create: documents
-  match: "**/*"
+  match: "**/*.md"
   templates:
   - gallery
 - type: directory
