@@ -11,3 +11,5 @@ fields:
   type: image_gallery
   config: {}
   label: Images
+pages:
+- gallery/recent-work.md
