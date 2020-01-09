@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/austin-osman-spare-digital-nov-2018.md
 - projects/night-bastards-ii.md
 - projects/waife.md
 - projects/winter.md
