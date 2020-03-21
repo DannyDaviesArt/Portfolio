@@ -2,7 +2,9 @@
 date: 2020-03-21
 thumbnail: "/uploads/FB_IMG_1584787824732.jpg"
 title: Son of Samsa
-categories: []
+categories:
+- Digital
+- Neoexpressionist
 project_bg_color: ''
 project_fg_color: ''
 
